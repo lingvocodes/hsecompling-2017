@@ -21,3 +21,4 @@ Student projects of Master’s programme 'Computational Linguistics'
 Projects
 --------
 * [Научпоп](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
+* [Непрямая речь](https://github.com/DanilSko/speech)
