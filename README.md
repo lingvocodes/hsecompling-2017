@@ -10,7 +10,7 @@ Student projects of Master’s programme 'Computational Linguistics'
 | Команда                       | Даты выступлений   |
 | :---------------------------: |:-------------------| 
 | Чат-бот для лингвистов        | 09.11; 07.12       | 
-| Исследование н-п текстов      | 09.11; 07.12       | 
+| Научпоп                       | 09.11; 07.12       | 
 | Корпус блогов                 | 09.11; 07.12       | 
 | Академический корпус CAT      | 09.11; 07.12       | 
 | Semantic brain map            | 23.11; 19.12       | 
@@ -20,4 +20,4 @@ Student projects of Master’s programme 'Computational Linguistics'
 
 Projects
 --------
-* [Комплинг-исследование научно-популярных текстов](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
+* [Научпоп](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
