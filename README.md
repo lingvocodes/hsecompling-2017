@@ -22,3 +22,4 @@ Projects
 --------
 * [Научпоп](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
 * [Непрямая речь](https://github.com/DanilSko/speech)
+* [CAT and the kittens](https://github.com/MariaFjodorowa/catandthekittens)
