@@ -26,3 +26,4 @@ Projects
 * [Semantic Brain Map](https://github.com/bakarov/semantic-brain-map)
 * [Краудсорсинговый бот](https://github.com/helmeton/crowdsourcingmarkup)
 * [Вышка.Словари](https://github.com/semenovabnl/hse.dictionaries.git)
+* [Корпус блогов](https://github.com/BasilisAndr/blogs)
