@@ -27,3 +27,4 @@ Projects
 * [Краудсорсинговый бот](https://github.com/helmeton/crowdsourcingmarkup)
 * [Вышка.Словари](https://github.com/semenovabnl/hse.dictionaries.git)
 * [Корпус блогов](https://github.com/BasilisAndr/blogs)
+* [Cross-lingual parsing with UD](https://github.com/ftyers/cross-lingual-parsing)
