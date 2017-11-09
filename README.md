@@ -23,3 +23,6 @@ Projects
 * [Научпоп](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
 * [Непрямая речь](https://github.com/DanilSko/speech)
 * [CAT and the kittens](https://github.com/MariaFjodorowa/catandthekittens)
+* [Semantic Brain Map](https://github.com/bakarov/semantic-brain-map)
+* [Краудсорсинговый бот](https://github.com/helmeton/crowdsourcingmarkup)
+* [Вышка.Словари](https://github.com/semenovabnl/hse.dictionaries.git)
