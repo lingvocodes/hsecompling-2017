@@ -5,7 +5,7 @@ Student projects of Master’s programme 'Computational Linguistics'
 
 [Repository requirements](https://docs.google.com/document/d/1FTWZGQ27T3_2CKVMz4JMvXKGoEMvtdR8EW16YFclyHY/edit?usp=sharing)
 
-[Status](https://docs.google.com/spreadsheets/d/1A5cHHWXk2tfav_quHGTuvo3o89bv5cpRqN72CjPfV4Y/edit?usp=sharing)
+[Status](https://docs.google.com/spreadsheets/d/1A5cHHWXk2tfav_quHGTuvo3o89bv5cpRqN72CjPfV4Y/edit?usp=sharing) upd.24.11 (21:41)
 
 [Schedule:](https://docs.google.com/spreadsheets/d/1MRXg5dPZTSMCf12A1EUHafZo3qPTgteulERBFhkOO0k/edit?usp=sharing) 
 
