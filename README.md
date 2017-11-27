@@ -21,6 +21,8 @@ Student projects of Master’s programme 'Computational Linguistics'
 | Вышка-словари                 | 23.11; 19.12       |  
 | Cross-lingual parsing with UD | 23.11; 19.12       | 
 
+![alt text](https://github.com/haniani/geo/blob/master/year.png "Year")
+
 Projects
 --------
 * [Научпоп](https://github.com/ana-kuznetsova/Popular-Sience-Texts-Compling-research)
